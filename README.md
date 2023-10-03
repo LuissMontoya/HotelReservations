@@ -1,5 +1,5 @@
 
-## 🖥️ Tecnologías Utilizadas:
+## 🖥️ Used technology:
 
 - Java
 - Eclipse
@@ -10,7 +10,7 @@
  </br>
 
 ---
-## ⚠️ Importante! ⚠️
+## ⚠️ Important! ⚠️
 
 ☕ Use Java version 8 or higher for compatibility. </br></br>
 
