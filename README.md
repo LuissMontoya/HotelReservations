@@ -3,18 +3,18 @@
 
 - Java
 - Eclipse
-- Biblioteca JCalendar
+- Library JCalendar
 - MySql
 - Plugin WindowBuilder
-- Biblioteca C3PO para crear Pool de conexiones
+- Library C3PO to create Connection Pool
  </br>
 
 ---
 ## ⚠️ Importante! ⚠️
 
-☕ Use Java versión 8 o superior para compatibilidad. </br></br>
+☕ Use Java version 8 or higher for compatibility. </br></br>
 
-🎨 La interfaz contiene dos métodos importantes:
-- setResizable(false): determina el tamaño de la ventana, y a través del parámetro <strong>false</strong>, la pantalla no se puede maximizar;
-- setLocationRelativeTo(null): determina la ubicación de la ventana, y a través del parámetro <strong>null</strong> la mantiene centrada en la pantalla.
+🎨The interface contains two important methods:
+- setResizable(false): determines the size of the window, and through the <strong>false</strong> parameter, the screen cannot be maximized;
+- setLocationRelativeTo(null): determines the location of the window, and through the <strong>null</strong> parameter keeps it centered on the screen.
 
